@@ -1,7 +1,5 @@
 # Olá! Eu sou o Vitor Barreto Gomes
 
-**`Aprendendo FullStack`**
-
 Me chamo Vitor Barreto Gomes, tenho 21 anos. Atualmente, estou cursando Engenharia de software na UNB (Universidade pública de Brasília). Tenho grande interesse em tecnologia, programação e desenvolvimento de software. Aqui no GitHub compartilho meus estudos, projetos e experimentos enquanto evoluo como desenvolvedor.
 
    <a href="https://github.com/TheBagomes" target="_blank">
@@ -19,6 +17,8 @@ Me chamo Vitor Barreto Gomes, tenho 21 anos. Atualmente, estou cursando Engenhar
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+Atualmente estou aprendendo e estudando as seguintes linguagens: 
 
 <img 
     align="left" 
